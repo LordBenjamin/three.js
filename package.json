@@ -60,5 +60,18 @@
     "rollup-watch": "^4.0.0",
     "serve": "^6.3.1",
     "uglify-js": "^3.0.23"
+  },
+  "jspm" : {
+    "files": [
+      "package.json",
+      "bower.json",
+      "LICENSE",
+      "README.md",
+      "build/three.js",
+      "build/three.min.js",
+      "build/three.module.js",
+    ],
+    "directories": {
+    }
   }
 }
