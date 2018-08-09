@@ -3,7 +3,7 @@
   "version": "0.89.0",
   "description": "JavaScript 3D library",
   "main": "build/three.js",
-  "repository": "mrdoob/three.js",
+  "repository": "lordbenjamin/three.js",
   "jsnext:main": "build/three.module.js",
   "module": "build/three.module.js",
   "files": [
@@ -69,7 +69,7 @@
       "README.md",
       "build/three.js",
       "build/three.min.js",
-      "build/three.module.js",
+      "build/three.module.js"
     ],
     "directories": {
     }
